@@ -1,4 +1,4 @@
--- Density values from 0.0 to 1.0.
+-- Density values può essere modificato da 0 a 1.
 DensityMultiplier = 0.5
 Citizen.CreateThread(function()
 	while true do
