@@ -1,0 +1,1 @@
+print("Controlla npc caricato! Sileri Original ")
